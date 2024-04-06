@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###: octocat: hola mi nombre es Esteban Guerrero
 [email](esteban.guerrero@estudiantes.uamerica.edu.co)
-
+![Static Badge](https://img.shields.io/badge/-Logo-color?style=flat&logo=Logo&link=url)
 <!--
 **estebangh99/estebangh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
